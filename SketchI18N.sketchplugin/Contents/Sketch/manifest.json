@@ -3,14 +3,14 @@
     "description": "Sketch I18N",
     "author": "@liguangming",
     "homepage": "http://liguangming.com",
-    "version": 1.0,
-    "identifier": "com.liguangming.sketch-trial",
+    "version": "1.0",
+    "identifier": "com.liguangming.sketch-i18n",
     "downloadURL": "https://github.com/cute/SketchI18N",
     "compatibleVersion": 3.3,
-    "bundleVersion": 1.0,
+    "bundleVersion": "1.0",
     "commands": [{
         "name": "Sketch I18N",
-        "identifier": "trial-command",
+        "identifier": "i18n-command",
         "shortcut": "control command x",
         "script": "app.js",
         "handler": "onRun",
@@ -18,7 +18,7 @@
     "menu": {
         "isRoot": true,
         "items": [
-            "trial-command"
+            "i18n-command"
         ]
     }
 }
