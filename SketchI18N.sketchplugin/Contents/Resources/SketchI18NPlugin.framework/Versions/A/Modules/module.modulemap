@@ -1,0 +1,6 @@
+framework module SketchI18NPlugin {
+  umbrella header "SketchI18NPlugin.h"
+
+  export *
+  module * { export * }
+}
