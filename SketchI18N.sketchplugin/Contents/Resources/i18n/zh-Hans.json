@@ -519,6 +519,7 @@
     "A Document Being Saved By %@": "一个文件被保存到 %@",
     "Create New %@": "新建%@",
     "Organize %@s": "组织%@",
+    "Organize %@s…": "组织%@",
     "Do you want to save the changes made to the document “%@”?": "您要存储对文稿“%@”所做的更改吗？",
     "(A Document Being Saved By %@)": "(文档将被保存为 %@)",
     "Run ‘%@’ Again": "运行 ‘%@’",
@@ -638,6 +639,8 @@
     "Register": "注册",
     "License Key:": "注册码:",
     "Visit Store...": "浏览商店...",
-    "You are currently running a trial version of Sketch. To remove the trial\nlimitations, please purchase a license key from our store.": "您当前正在运行的Sketch的试用版。要删除试\n限制，请购买我们的商店许可证密钥。",
-    "If you have already purchased Sketch from our store, you should have received a license key via email to enter above." : "如果您已经从我们的商店购买了Sketch，请输入通过电子邮件收到许可证密钥。"
+    "You are currently running a trial version of Sketch. To remove the trial\nlimitations, please purchase a license key from our store.": "当前运行的是 Sketch 试用版。要解除限制，请在我们的商店购买密钥。",
+    "If you have already purchased Sketch from our store, you should have received a license key via email to enter above.": "如果您已经从我们的商店购买了 Sketch ，请输入通过电子邮件收到许可证密钥。",
+    "Layer Styles": "图层样式",
+    "Text Styles": "文字样式"
 }
