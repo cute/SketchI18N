@@ -7,7 +7,7 @@
     "identifier": "com.liguangming.sketch-i18n",
     "downloadURL": "https://github.com/cute/SketchI18N",
     "compatibleVersion": 3.3,
-    "bundleVersion": "3",
+    "bundleVersion": "4",
     "commands": [{
         "name": "Sketch I18N",
         "identifier": "i18n-command",
