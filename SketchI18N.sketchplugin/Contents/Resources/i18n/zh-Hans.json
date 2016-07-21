@@ -624,16 +624,20 @@
     "Sign in to Sketch Cloud Beta": "登录到 Sketch Cloud Beta",
     "Cloud": "云分享",
     "1. Overlay": "1. 遮盖",
-    "2. Size": "2. 尺寸", 
-    "3. Spacing": "3. 距离", 
-    "4. Property": "4. 属性", 
-    "5. Note": "5. 笔记", 
+    "2. Size": "2. 尺寸",
+    "3. Spacing": "3. 距离",
+    "4. Property": "4. 属性",
+    "5. Note": "5. 笔记",
     "Color names": "颜色名称",
     "💎 Spec Export": "💎 规范导出",
     "Hide marks": "隐藏标注",
     "Lock marks": "锁定标注",
-    "Clear marks": "清理标注"
+    "Clear marks": "清理标注",
+    "License Registration": "许可证注册",
+    "SK3-0000-0000-0000-0000-0000": "SK3-0000-0000-0000-0000-0000",
+    "Register": "注册",
+    "License Key:": "注册码:",
+    "Visit Store...": "浏览商店...",
+    "You are currently running a trial version of Sketch. To remove the trial\nlimitations, please purchase a license key from our store.": "您当前正在运行的Sketch的试用版。要删除试\n限制，请购买我们的商店许可证密钥。",
+    "If you have already purchased Sketch from our store, you should have received a license key via email to enter above." : "如果您已经从我们的商店购买了Sketch，请输入通过电子邮件收到许可证密钥。"
 }
-
-
-
