@@ -393,7 +393,7 @@
     "Get Plugins…": "获取插件…",
     "Auto Save:": "自动保存",
     "Plugins are created by third-party developers to customize Sketch.": "第三方开发者为 Sketch 创建的插件.",
-    "With click-through activated, you’ll be able to select objects inside groups directly from the Canvas without having to open the group first. If turned off, click-through is still available by holding the Command key.": "点击激活后，你就可以从画布里选择分组里的对象，而不用先打开分组。如果关闭，你仍然可以通过按住Command键来操作。",
+    "With click-through activated, you’ll be able to select objects inside groups directly from the Canvas without having to open the group first. If turned off, click-through is still available by holding the Command key.": "点击激活后，你就可以从画布里选择分组里的对象，而不用先打开分组。如果关闭，你仍然可以通过按住 Command 键来操作。",
     "Show Plugins Folder": "打开插件目录",
     "Show current Artboard": "显示当前画板",
     "Strip Text Style when pasting": "粘贴时去掉文字样式",
@@ -412,7 +412,7 @@
     "Flatten Bitmaps:": "平面化位图:",
     "A system feature that automatically saves your files at regular intervals. When enabled, you have access to Versions, allowing you to go back to previous versions. Auto Save greatly reduces the chance of losing your work if you make a mistake or there’s a system error.": "系统功能会定期自动保存您的文件。启用后，您可以访问版本，让你回到以前的版本。自动保存大大减少你的工作损失，如果你犯了一个错误，或有发生一个系统错误。",
     "New Groups:": "新建分组:",
-    "When zooming back to Actual Size, by default Sketch zooms out from the center. Instead it can also zoom back to be like how it was before you zoomed in.": "当变焦回到实际大小，默认情况下Sketch从中心缩小。相反，它也可以缩放回之前的大小。",
+    "When zooming back to Actual Size, by default Sketch zooms out from the center. Instead it can also zoom back to be like how it was before you zoomed in.": "当变焦回到实际大小，默认情况下 Sketch 从中心缩小。相反，它也可以缩放回之前的大小。",
     "Auto Save files while editing": "编辑时候自动保存文件",
     "Offset duplicated layers": "移动复制的图层",
     "Duplicating:": "复制:",
@@ -638,6 +638,6 @@
     "Register": "注册",
     "License Key:": "注册码:",
     "Visit Store...": "浏览商店...",
-    "You are currently running a trial version of Sketch. To remove the trial\nlimitations, please purchase a license key from our store.": "您当前正在运行的Sketch的试用版。要删除试\n限制，请购买我们的商店许可证密钥。",
-    "If you have already purchased Sketch from our store, you should have received a license key via email to enter above." : "如果您已经从我们的商店购买了Sketch，请输入通过电子邮件收到许可证密钥。"
+    "You are currently running a trial version of Sketch. To remove the trial\nlimitations, please purchase a license key from our store.": "您当前正在运行的 Sketch 的试用版。要删除试\n限制，请购买我们的商店许可证密钥。",
+    "If you have already purchased Sketch from our store, you should have received a license key via email to enter above." : "如果您已经从我们的商店购买了 Sketch，请输入通过电子邮件收到许可证密钥。"
 }
