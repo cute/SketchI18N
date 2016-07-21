@@ -13,3 +13,4 @@ Each time you open an application will need to run the plug-in to change languag
 ##Contributors
 * Author by [cute](https://github.com/cute/)
 * [Sketch Measure](http://utom.design/measure), from [utom](http://utom.design)
+* [Pluwen](https://twitter.com/pluwen)
