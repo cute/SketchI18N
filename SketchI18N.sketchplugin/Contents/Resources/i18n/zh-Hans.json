@@ -646,5 +646,8 @@
     "You are currently running a trial version of Sketch. To remove the trial\nlimitations, please purchase a license key from our store.": "当前运行的是 Sketch 试用版。要解除限制，请在我们的商店购买密钥。",
     "If you have already purchased Sketch from our store, you should have received a license key via email to enter above.": "如果您已经从我们的商店购买了 Sketch ，请输入通过电子邮件收到许可证密钥。",
     "Layer Styles": "图层样式",
-    "Text Styles": "文字样式"
+    "Text Styles": "文字样式",
+    "Bold":"粗体",
+    "Italic":"斜体",
+    "Registered to ":"注册给 "
 }
