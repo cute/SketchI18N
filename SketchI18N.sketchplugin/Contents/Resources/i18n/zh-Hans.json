@@ -695,5 +695,8 @@
     "Bold": "粗体",
     "Italic": "斜体",
     "Registered to ": "注册给 ",
-    "Registered to %@": "注册给 %@"
+    "Registered to %@": "注册给 %@",
+    "Click-through when selecting": "Click-through when selecting",
+    "Opening the document will preserve missing fonts as long as those text layers are not edited." : "Opening the document will preserve missing fonts as long as those text layers are not edited.",
+    "The selected text layer(s) contains a missing font. Editing its contents will revert it to the default typeface.": "The selected text layer(s) contains a missing font. Editing its contents will revert it to the default typeface."
 }
