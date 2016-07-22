@@ -18,6 +18,7 @@
     "Show Colors": "显示颜色",
     "Image": "图片",
     "Feedback...": "反馈...",
+    "Feedback...": "反馈",
     "Open…": "打开...",
     "Pick Color": "拾色器",
     "Show Inspector": "显示查看器",
@@ -690,5 +691,9 @@
     "If you have already purchased Sketch from our store, you should have received a license key via email to enter above.": "如果你已经从我们的商店购买了 Sketch，请输入通过电子邮件收到的注册码。",
     "Layer Styles": "图层样式",
     "Text Styles": "文字样式",
+    "Text Styles": "文字样式",
+    "Bold": "粗体",
+    "Italic": "斜体",
+    "Registered to ": "注册给 ",
     "Registered to %@": "注册给 %@"
 }
