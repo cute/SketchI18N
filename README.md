@@ -1,7 +1,7 @@
 # SketchI18N
 
 
-SketchI18N is multi-language plugin for Sketch.app.
+SketchI18N is multi-language plugin for Sketch.app
 
 ![Chinese Simplified](http://utom.design/123.png)
 
@@ -14,7 +14,7 @@ Each time you open an application will need to run the plug-in to change languag
 
 ## Keyboard Shortcuts
 
-Enable I18N： ⌃ + ⌘ + X
+Enable I18N： `⌃ control` + `⌘ commond` + `x`
 
 ##Contributors
 * Author by [cute](https://github.com/cute/)
