@@ -3,7 +3,7 @@
     "description": "Sketch I18N",
     "author": "@liguangming",
     "homepage": "http://liguangming.com",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "identifier": "com.liguangming.sketch-i18n",
     "downloadURL": "https://github.com/cute/SketchI18N",
     "compatibleVersion": 3.3,
