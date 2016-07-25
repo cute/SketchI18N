@@ -704,5 +704,6 @@
     "Plugin “%@” Already Installed": "已经装过 “%@” 插件",
     "Plugin “%@” Installed": "“%@” 插件安装完成",
     "The plugin has been installed successfully. You can now access it via the Plugins menu.": "此插件已成功安装，现在你可以通过插件菜单来使用它。",
-    "Do you want to replace it with “%@”?": "你想把它替换成 “%@” 吗？"
+    "Do you want to replace it with “%@”?": "你想把它替换成 “%@” 吗？",
+    "Dismiss": "忽略"
 }
