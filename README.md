@@ -3,8 +3,10 @@
 
 SketchI18N is multi-language plugin for Sketch.app.
 
+![Chinese Simplified](http://utom.design/123.png)
+
 ## Language support
-* 中文简体 (Chinese Simplified)
+* 中文简体 (Chinese Simplified) - [cute](https://github.com/cute/), [utom](http://utom.design), [Pluwen](https://twitter.com/pluwen) and [Aqua](http://idealStudio.org)
 
 ## How-to
 
@@ -17,5 +19,4 @@ Enable I18N： ⌃ + ⌘ + X
 ##Contributors
 * Author by [cute](https://github.com/cute/)
 * [Sketch Measure](http://utom.design/measure), from [utom](http://utom.design)
-* [Pluwen](https://twitter.com/pluwen)
-* 本地化爱好者 [Aqua](http://idealStudio.org) 参与Mac中文修正
+
