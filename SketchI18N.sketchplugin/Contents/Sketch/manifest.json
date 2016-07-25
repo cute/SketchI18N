@@ -14,6 +14,11 @@
         "shortcut": "control command x",
         "script": "app.js",
         "handler": "onRun",
+        "handlers": {
+            "actions": {
+                "OpenDocument": "onRun",
+            }
+        }
     }],
     "menu": {
         "isRoot": true,
