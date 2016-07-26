@@ -11,7 +11,7 @@ var onRun = function(context) {
         var mocha = Mocha.sharedRuntime();
         i18n = [NSString stringWithContentsOfFile:languagePath encoding:NSUTF8StringEncoding error:nil];
 
-        if (!NSClassFromString(@"SketchI18NPluginManager")) {
+        if (!NSClassFromString("SketchI18NPluginManager")) {
             mocha.loadFrameworkWithName_inDirectory("SketchI18NPlugin", resourcesPath + "/Contents/Resources");
             manager = SketchI18NPluginManager.manager();
             manager.loadStrings(i18n);
