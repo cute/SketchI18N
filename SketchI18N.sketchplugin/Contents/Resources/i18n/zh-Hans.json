@@ -421,7 +421,6 @@
     "Background Color": "背景颜色",
     "General": "通用",
     "Layers": "图层",
-    "Proportionally": "",
     "Get Plugins…": "获取插件…",
     "Auto Save:": "自动保存：",
     "Ends": "端点",
@@ -751,7 +750,6 @@
     "Color Sliders": "Color Sliders",
     "The selected layers will be replaced by a single layer. A new \nSymbol will be created in your document. Whenever this Symbol is edited, all its layers will update to reflect the changes.": "已选中的图层将被替换为单个图层。一个新的组件将创建到你的文档中。每当这个组件被编辑的时候，和它相关的图层将自动同步修改。",
     "Item 1": "Item 1",
-    "Toggle Craft": "切换 Craft",
     "pick color": "取色",
     "No Value": "没有值",
     "CUSTOM": "自定义",
@@ -765,7 +763,6 @@
     "Dropbox Link": "Dropbox 链接",
     "Random Unsplash": "随机 Unsplash",
     "Sync Styles": "同步样式",
-    "Craft": "Craft",
     "Folder": "文件夹",
     "Data": "数据",
     "Duplicate inside selection": "复制内部选择",
@@ -783,5 +780,7 @@
     "Project": "项目",
     "Author": "作者",
     "Company": "公司",
-    "Change Code Settings...": "修改代码设置..."
+    "Change Code Settings...": "修改代码设置...",
+    "Define Text Styles by creating a new style from an existing text layer in the Inspector.": "从查看器中已经存在的文字图层，创建一个新的样式来定义文本样式。",
+    "Symbols let you reuse content in your design. Create a Symbol via Layer > Create Symbol": "组件可以让在在设计中重用内容. 创建一个组件通过 图层 > 创建组件"
 }
