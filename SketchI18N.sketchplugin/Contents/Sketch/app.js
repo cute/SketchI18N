@@ -7,17 +7,21 @@ var onRun = function(context) {
         language = NSUserDefaults.standardUserDefaults().objectForKey("AppleLanguages").objectAtIndex(0),
         languagePath = resourcesPath + "/Contents/Resources/i18n/" + language + ".json";
 
-    if(NSFileManager.defaultManager().fileExistsAtPath(languagePath)){
+    if (NSFileManager.defaultManager().fileExistsAtPath(languagePath)) {
         var mocha = Mocha.sharedRuntime();
-        i18n = [NSString stringWithContentsOfFile:languagePath encoding:NSUTF8StringEncoding error:nil];
+        i18n = [NSString stringWithContentsOfFile: languagePath encoding: NSUTF8StringEncoding error: nil];
 
-        if (!NSClassFromString(@"SketchI18NPluginManager")) {
+        if (!NSClassFromString("SketchI18NPluginManager")) {
             mocha.loadFrameworkWithName_inDirectory("SketchI18NPlugin", resourcesPath + "/Contents/Resources");
             manager = SketchI18NPluginManager.manager();
             manager.loadStrings(i18n);
         } else {
             manager = SketchI18NPluginManager.manager();
         }
-        manager.run();
+        if (identifier == "i18n-toggle-command") {
+            manager.toggle();
+        } else {
+            manager.run();
+        }
     }
 }
