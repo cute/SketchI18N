@@ -803,4 +803,8 @@
     "Go To": "跳转到",
     "Create": "创建",
     "Apply": "应用",
+    "Sketch Palettes": "Sketch 色板",
+    "Load Palette...": "导入色板...",
+    "Save Palette...": "保存色板...",
+    "Clear Palette": "清空色板"
 }
