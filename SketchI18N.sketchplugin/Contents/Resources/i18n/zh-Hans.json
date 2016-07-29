@@ -257,7 +257,7 @@
     "Italiano": "Italiano",
     "Intersect": "区域相交",
     "Add Border": "添加边框",
-    "Show Selection Handles": "显示选择手柄",
+    "Show Selection Handles": "显示所选边缘",
     "Horizontally": "水平",
     "Rounded": "圆形",
     "No Slices Defined...": "没有定义切片...",
@@ -808,5 +808,12 @@
     "Sketch Palettes": "Sketch 色板",
     "Load Palette...": "导入色板...",
     "Save Palette...": "保存色板...",
-    "Clear Palette": "清空色板"
+    "Clear Palette": "清空色板",
+    "Send to Flinto": "发送到 Flinto",
+    "Sending to Flinto...": "正在发送到 Flinto...",
+    "Send Artboards to Flinto": "发送画板到 Flinto",
+    "Device Size": "设备尺寸",
+    "Export only selected artboards": "只导出选中的画板",
+    "Send": "发送",
+    "Custom": "自定义"
 }
