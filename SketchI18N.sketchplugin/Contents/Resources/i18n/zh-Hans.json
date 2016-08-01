@@ -257,7 +257,7 @@
     "Italiano": "Italiano",
     "Intersect": "区域相交",
     "Add Border": "添加边框",
-    "Show Selection Handles": "显示选择手柄",
+    "Show Selection Handles": "显示所选边缘",
     "Horizontally": "水平",
     "Rounded": "圆形",
     "No Slices Defined...": "没有定义切片...",
@@ -463,7 +463,7 @@
     "Zoom:": "缩放：",
     "Pixel-fit when aligning layers": "对齐图层时匹配像素",
     "Zoom back to previous Canvas position": "缩放到画布之前的位置",
-    "Connected iOS devices automatically show the same Artboard as the Mac.": "连接 iOS 设备会自动在 Mac 显示相同的画板。",
+    "Connected iOS devices automatically show the same Artboard as the Mac.": "已连接的 iOS 设备会与 Mac 显示相同的画板。",
     "Mirror lets you view your designs directly on your device or in the browser.": "使用 Mirror 在设备上或浏览器预览设计。",
     "Save...": "保存...",
     "Run Custom Script": "运行自定义脚本",
@@ -808,5 +808,12 @@
     "Sketch Palettes": "Sketch 色板",
     "Load Palette...": "导入色板...",
     "Save Palette...": "保存色板...",
-    "Clear Palette": "清空色板"
+    "Clear Palette": "清空色板",
+    "Send to Flinto": "发送到 Flinto",
+    "Sending to Flinto...": "正在发送到 Flinto...",
+    "Send Artboards to Flinto": "发送画板到 Flinto",
+    "Device Size": "设备尺寸",
+    "Export only selected artboards": "只导出选中的画板",
+    "Send": "发送",
+    "Custom": "自定义"
 }
