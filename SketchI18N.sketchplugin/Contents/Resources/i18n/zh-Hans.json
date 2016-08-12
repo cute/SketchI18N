@@ -835,5 +835,12 @@
     "iOS App Icon": "iOS 应用图标",
     "Mac App Icon": "Mac 应用图标",
     "Android Icon Design": "Android 图标设计",
-    "Web Design": "网站设计"
+    "Web Design": "网站设计",
+    "Rename Selected Layers": "重命名所选图层",
+    "Find and Replace": "查找和替换",
+    "Find & Replace": "查找 & 替换",
+    "Rename it: You need to select at least one layer": "Rename it：至少要选中一个图层",
+    "Starts Number Sequence From:": "起始数字序号：",
+    "Find:": "查找：",
+    "Replace with:": "替换为："
 }
