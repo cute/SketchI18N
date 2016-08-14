@@ -700,7 +700,7 @@
     "If you have already purchased Sketch from our store, you should have received a license key via email to enter above.": "如果你已经从我们的商店购买了 Sketch，请输入通过电子邮件收到的注册码。",
     "Layer Styles": "图层样式",
     "Text Styles": "文本样式",
-    "Registered to %@": "授权给： %@",
+    "Registered to %@": "已授权给：%@",
     "Click-through when selecting": "穿透选择",
     "Opening the document will preserve missing fonts as long as those text layers are not edited.": "打开该文件将保留缺少的字体，只要这些文本图层不被编辑。",
     "The selected text layer(s) contains a missing font. Editing its contents will revert it to the default typeface.": "已选中的文本图层包含缺少的字体。编辑内容会使其恢复到默认字体。",
@@ -835,5 +835,12 @@
     "iOS App Icon": "iOS 应用图标",
     "Mac App Icon": "Mac 应用图标",
     "Android Icon Design": "Android 图标设计",
-    "Web Design": "网站设计"
+    "Web Design": "网站设计",
+    "Rename Selected Layers": "重命名所选图层",
+    "Find and Replace": "查找和替换",
+    "Find & Replace": "查找 & 替换",
+    "Rename it: You need to select at least one layer": "Rename it：至少要选中一个图层",
+    "Starts Number Sequence From:": "起始数字序号：",
+    "Find:": "查找：",
+    "Replace with:": "替换为："
 }
