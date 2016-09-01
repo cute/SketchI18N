@@ -15,7 +15,6 @@ SketchI18N is multi-language plugin for Sketch.app
 * Toggle I18N： `⌃ control` + `⌘ commond` + `x`
 
 ## Plugin Translated
-* [Measure](https://github.com/utom/sketch-measure), from [utom](http://utom.design)
 * [Craft](https://www.invisionapp.com/craft), from [Invision](https://www.invisionapp.com)
 * [PaintCode](https://www.paintcodeapp.com/sketch), from [PaintCode](https://www.paintcodeapp.com)
 * [Magic Mirror](https://github.com/MagicSketch/MagicMirror), from [Magic Sketch](http://magicsketch.io)
