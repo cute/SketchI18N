@@ -17,3 +17,4 @@ SketchI18N is multi-language plugin for Sketch.app
 ## Contributors
 * Author by [cute](https://github.com/cute/)
 * [Sketch Measure](http://utom.design/measure), from [utom](http://utom.design)
+* [Pluwen](https://twitter.com/pluwen)
