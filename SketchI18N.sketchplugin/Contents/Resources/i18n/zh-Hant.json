@@ -132,6 +132,7 @@
     "Ungroup Layers": "取消分組圖層",
     "Layer": "圖層",
     "Undo Add Layer": "撤銷新增圖層",
+    "Redo Add Layer": "重做新增圖層",
     "Presentation Mode": "演示模式",
     "Make Exportable": "匯出圖層",
     "Bring All to Front": "前置全部視窗",
@@ -309,8 +310,7 @@
     "Fill Options": "填充選項",
     "Non-Zero": "非零性",
     "Even-Odd": "奇偶性",
-    "Determines how to fill shapes with overlapping paths.": "決定如何填充帶重疊路徑的形狀。",
-    "Non-Zero will fill the entire shape, whilst Even-Odd will preserve the holes in overlapping paths.": "「非零性」會填充整個形狀，「奇偶性」將保留重疊的路徑孔。",
+    "Determines how to fill shapes with overlapping paths.\n\nNon-Zero will fill the entire shape, whilst Even-Odd will preserve the holes in overlapping paths.": "決定如何填充帶重疊路徑的形狀。\n\n「非零性」會填充整個形狀，「奇偶性」將保留重疊的路徑孔。",
     "Left": "左邊",
     "Right": "右邊",
     "Move To Back": "移到最後",
@@ -535,6 +535,7 @@
     "Alignment": "對齊",
     "Typeface": "字型",
     "Undo Text Change": "取消文字更改",
+    "Redo Text Change": "重做文字更改",
     "Arial": "Arial",
     "Text Style": "文字樣式",
     "Options": "選項",
@@ -877,5 +878,9 @@
     "Rename it: You need to select at least one layer": "Rename it：你至少要選中一個圖層",
     "Starts Number Sequence From:": "起始數字序號：",
     "Find:": "查詢：",
-    "Replace with:": "替換為："
+    "Replace with:": "替換為：",
+    "Undo Move Layers": "撤銷移動圖層",
+    "Redo Move Layers": "重做移動圖層",
+    "Undo Add Point": "撤銷添加點",
+    "Redo Add Point": "重做添加點"
 }
