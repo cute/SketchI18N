@@ -310,7 +310,7 @@
     "Fill Options": "填充选项",
     "Non-Zero": "非零性",
     "Even-Odd": "奇偶性",
-    "Determines how to fill shapes with overlapping paths.\n\nNon-Zero will fill the entire shape, whilst Even-Odd will preserve the holes in overlapping paths.": "决定如何填充带重叠路径的形状。\n\n「非零性」会填充整个形状，「奇偶性」将保留重叠的路径孔。",
+    "Determines how to fill shapes with overlapping paths.\n\nNon-Zero will fill the entire shape, whilst Even-Odd will preserve the holes in overlapping paths.": "这将决定要如何填充带重叠路径的形状。\n\n非零性：填充整个形状；\n奇偶性：保留重叠的路径孔。",
     "Left": "左边",
     "Right": "右边",
     "Move To Back": "移到最后",
@@ -913,4 +913,8 @@
     "Paste Layers" : "粘贴图层",
     "Angle" : "角度",
     "Origin" : "起点",
+    "Show/Hide Layers in the List" : "显示/隐藏列表中的图层",
+    "Show or Hide Slices in the List and the Document" : "显示/隐藏列表和文档中的切片",
+    "%1$@ %2$@ is currently the newest version available." : "%1$@ %2$@ 是当前最新的版本。",
+    "You’re up-to-date!" : "你已经更新到最新版了！",
 }
