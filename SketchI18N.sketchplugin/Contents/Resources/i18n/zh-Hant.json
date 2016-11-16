@@ -1064,6 +1064,12 @@
     "Sides": "邊數",
     "The value %@ is too small.": "數值 %@ 太小了。",
     "New Document": "新建文件",
+    "%@ unexpectedly quit. Would you like to send a report so we can fix the problem?": "%@ 意外退出。你想傳送報告以便我們修復這個問題嗎？",
+    "Please describe any steps needed to trigger the problem": "請描述引起錯誤所需的所有步驟",
+    "Sketch unexpectedly quit. Would you like to send a report so we can fix the problem?": "Sketch 意外退出。你想傳送報告以便我們修復這個問題嗎？",
+    "Only the presented data will be sent with this report." : "傳送的報告中僅包含已展示的資料。",
+    "Problem Report for %@" : "%@ 的錯誤報告",
+    "Problem details and system configuration" : "錯誤細節和系統配置",
 
     "Toggle Craft": "啟用/禁用 Craft",
     "CUSTOM": "自定義",
