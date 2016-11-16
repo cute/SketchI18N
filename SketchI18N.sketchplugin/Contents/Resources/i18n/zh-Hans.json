@@ -1188,8 +1188,8 @@
     "Load Palette": "加载调色板",
     "Document Colors": "文档颜色",
     "Global Colors": "全局颜色",
-    "Due to Apple's Sandboxing technology, Sketch needs your permission to write to this folder.": "由于苹果的沙盒技术，Sketch需要您的权限写入此文件夹。",
-    "Your plugin out of date. Please update to the latest version of Sketch Palettes.": "您的插件已过期。 请更新到最新版本的Sketch Palettes。",
+    "Due to Apple's Sandboxing technology, Sketch needs your permission to write to this folder.": "由于苹果的沙盒技术， Sketch 需要您的权限写入此文件夹。",
+    "Your plugin out of date. Please update to the latest version of Sketch Palettes.": "您的插件已过期。 请更新到最新版本的 Sketch Palettes 。",
                     
     "Unsplash It": "Unsplash It",
     "A plugin to quickly include great looking images from Unsplash in your Sketch projects": "一个能快速地从 Unsplash 添加精美图片到你的 Sketch 项目中的插件",
