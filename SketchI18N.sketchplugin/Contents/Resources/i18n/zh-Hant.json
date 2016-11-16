@@ -1190,4 +1190,17 @@
     "Global Colors": "全局顏色",
     "Due to Apple's Sandboxing technology, Sketch needs your permission to write to this folder.": "由於蘋果的沙盒技術，Sketch需要您的許可權寫入此資料夾。",
     "Your plugin out of date. Please update to the latest version of Sketch Palettes.": "您的插件已過期。 請更新到最新版本的Sketch Palettes。",
+    
+    "Unsplash It": "Unsplash It",
+    "A plugin to quickly include great looking images from Unsplash in your Sketch projects": "一個能快速地從 Unsplash 新增精美圖片到你的 Sketch 項目中的插件",
+    "For this plugin to work right you have to select at least one shape layer": "你必須選擇至少一個形狀圖層，才能讓插件正常工作",
+    "No shape layer selected": "沒有選中形狀圖層",
+    "You did run the plugin on": "你的插件已運行在",
+    "that is not a shape layer. Select a shape layer to use Unsplash It": "這個不是形狀圖層。選擇一個形狀圖層來使用 Unsplash It",
+    "No layers selected.": "沒有選中圖層。",
+    "Unsplash It works on Shape Layer only": "Unsplash It 只適用於形狀圖層",
+    "You can only select one layer.": "你只能選擇一個圖層。",
+    "The layer has to be in an artboard.": "這個圖層需要放在畫板中。",  
+    "You can't put constraints on artboards.": "你不能對畫板設定限制。",
+    "Unsplash It, done!": "Unsplash It，完成！"
 }
