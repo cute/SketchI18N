@@ -1063,6 +1063,7 @@
     "Click the link below to view your design in the browser, or launch Sketch Mirror on your iOS device.": "点击下面的链接，可以在浏览器中查看你的设计；或者在你的 iOS 设备中打开 Sketch Mirror。",
     "Sides": "边数",
     "The value %@ is too small.": "数值 %@ 太小了。",
+    "New Document": "新建文档",
 
     "Toggle Craft": "启用/禁用 Craft",
     "CUSTOM": "自定义",
@@ -1104,6 +1105,7 @@
     "Preview Setup...": "预览设置…",
     "First Create an Artboard...": "先创建一个画板…",
     "Duplicate Artboard": "复制画板",
+    "Please select a Prototype first.": "请先选择一个原型。",
 
     "PaintCode Plugin": "PaintCode 插件",
     "Choose Drawings": "选择图形",
@@ -1126,11 +1128,6 @@
     "Go To": "跳转到",
     "Create": "创建",
     "Apply": "应用",
-
-    "Sketch Palettes": "Sketch 色板",
-    "Load Palette...": "导入色板…",
-    "Save Palette...": "保存色板…",
-    "Clear Palette": "清空色板",
 
     "Send to Flinto": "发送到 Flinto",
     "Sending to Flinto...": "正在发送到 Flinto…",
@@ -1169,7 +1166,7 @@
     "Select a size preset or go make things complicated...": "选择一个预设的大小或者让事情变得复杂...",
     "Did you forget to set a background color to some artboards?": "你是忘了给一些画板设置背景颜色吗？",
     "If you continue, the exported artboards will have a transparent color.": "如果你直接导出，导出的画板将保留透明背景。",
-    
+
     "Duplicate Left": "朝左复制",
     "Duplicate Right": "朝右复制",
     "Duplicate Above": "朝上复制",
@@ -1183,13 +1180,13 @@
     "Can't duplicate an emptiness! Please select some layers and try again.": "不能重复空白！请选择图层，然后重试。",
     "Can't duplicate Artboards! Please remove all the artboards from the selection.": "无法复制的画板！请从选择中删除所有的画板。",
     "This tool takes the current selection and copies it a specified number of times in a specified direction.": "此工具选择当前的选择，并在指定的方向上复制一个指定的次数。",
-    
+
+    "Sketch Palettes": "Sketch 调色板",
+    "Clear Palette": "清除调色板",
     "Load Palette": "载入调色板",
     "Save Palette": "保存调色板",
-    "Clear Palette": "清除调色板",
-    "Load Palette": "加载调色板",
-    "Document Colors": "文档颜色",
-    "Global Colors": "全局颜色",
-    "Due to Apple's Sandboxing technology, Sketch needs your permission to write to this folder.": "由于苹果的沙盒技术，Sketch需要您的权限写入此文件夹。",
-    "Your plugin out of date. Please update to the latest version of Sketch Palettes.": "您的插件已过期。 请更新到最新版本的Sketch Palettes。",
+    "Load Palette...": "导入调色板…",
+    "Save Palette...": "保存调色板…",
+    "Due to Apple's Sandboxing technology, Sketch needs your permission to write to this folder.": "由于苹果的沙盒技术，Sketch 需要您的权限写入此文件夹。",
+    "Your plugin out of date. Please update to the latest version of Sketch Palettes.": "您的插件已过期。 请更新到最新版本的 Sketch 调色板。"
 }
