@@ -1193,6 +1193,19 @@
     "Save Palette": "保存调色板",
     "Load Palette...": "导入调色板…",
     "Save Palette...": "保存调色板…",
-    "Due to Apple's Sandboxing technology, Sketch needs your permission to write to this folder.": "由于苹果的沙盒技术，Sketch 需要您的权限写入此文件夹。",
-    "Your plugin out of date. Please update to the latest version of Sketch Palettes.": "您的插件已过期。 请更新到最新版本的 Sketch 调色板。"
+    "Due to Apple's Sandboxing technology, Sketch needs your permission to write to this folder.": "由于苹果的沙盒技术，Sketch 需要你的权限写入此文件夹。",
+    "Your plugin out of date. Please update to the latest version of Sketch Palettes.": "你的插件已过期。请更新到最新版本的 Sketch 调色板。",
+
+    "Unsplash It": "Unsplash It",
+    "A plugin to quickly include great looking images from Unsplash in your Sketch projects": "一个能快速地从 Unsplash 添加精美图片到你的 Sketch 项目中的插件",
+    "For this plugin to work right you have to select at least one shape layer": "你必须选择至少一个形状图层，才能让插件正常工作",
+    "No shape layer selected": "没有选中形状图层",
+    "You did run the plugin on": "你的插件已运行在",
+    "that is not a shape layer. Select a shape layer to use Unsplash It": "这个不是形状图层。选择一个形状图层来使用 Unsplash It",
+    "No layers selected.": "没有选中图层。",
+    "Unsplash It works on Shape Layer only": "Unsplash It 只适用于形状图层",
+    "You can only select one layer.": "你只能选择一个图层。",
+    "The layer has to be in an artboard.": "这个图层需要放在画板中。",  
+    "You can't put constraints on artboards.": "你不能对画板设置限制。",
+    "Unsplash It, done!": "Unsplash It，完成！"
 }
