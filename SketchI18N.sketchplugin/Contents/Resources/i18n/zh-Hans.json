@@ -1231,8 +1231,8 @@
     "Generate Diagram": "创建 Diagram",
     "Select a layer that you have defined as a Link, then run this command again.": "选择一个你需要作为链接的图层，然后重试这个操作。",
     "Invalid selection": "无效的选择",
-    "Shortcuts are defined by using a combination of modifiers (cmd, control, shift, option) and any other key. For example – 'cmd shift y'. Remember to check if a shortcut is already being used by a different plugin or by Sketch itself." : "快捷键是通过（cmd, control, shift, option）和其他按键组合来定义的的。例如 – 'cmd shift y'。记得检查快捷键是否已经被别的插件或者 Sketch 自己占用。",
-    "User Flows Keyboard Shortcuts" : "User Flows 键盘快捷键",
+    "Shortcuts are defined by using a combination of modifiers (cmd, control, shift, option) and any other key. For example – 'cmd shift y'. Remember to check if a shortcut is already being used by a different plugin or by Sketch itself.": "快捷键是通过（cmd, control, shift, option）和其他按键组合来定义的的。例如 – 'cmd shift y'。记得检查快捷键是否已经被别的插件或者 Sketch 自己占用。",
+    "User Flows Keyboard Shortcuts": "User Flows 键盘快捷键",
     
     "Segmented Circle": "Segmented Circle",
     "Create precise segmented circular graphics for diagrams, instrumentation and analytics": "一款能够创建带有区块、线条的环状图形的神器！",
