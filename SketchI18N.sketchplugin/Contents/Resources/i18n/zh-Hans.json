@@ -1256,7 +1256,6 @@
     "Major ticks length": "次要刻度宽度", 
     "Major ticks": "主要刻度高度",
     "Minor ticks length": "主要刻度高度",
-    "Bottom cutout angle": "底部切口角度", 
     "Ticks Circle": "刻度标记圆",
     "Input values for major and minor ticks.": "输入主要和次要刻度标记圆的值。",
     "Outer radius": "外半径",
@@ -1264,5 +1263,5 @@
     "Length of gaps": "缺口长度",
     "Segmented circle": "分段圆",
     "Number of segments": "段数",
-    "Input values for outer radius, number of segments, thickness etc. \nUse a thickness of 1 or less to create lines instead of areas.": "对于外半径，段数的输入值，厚度等\n使用的厚度为1或更小，以创建线代替区域。",
+    "Input values for outer radius, number of segments, thickness etc. \nUse a thickness of 1 or less to create lines instead of areas.": "对于外半径，段数的输入值，厚度等\n使用的厚度为1或更小，以创建线代替区域。"
 }
