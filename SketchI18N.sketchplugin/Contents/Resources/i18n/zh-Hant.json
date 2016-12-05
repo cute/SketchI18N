@@ -1081,6 +1081,7 @@
     "Unsaved %1$@ Document %2$ld": "未儲存的 %1$@ 檔案 %2$ld",
     "Convert Text to Traditional Chinese": "將文字轉換為繁體中文",
     "You have %1$@ untitled %2$@ documents. Do you want to review these documents before quitting?": "你有 %1$@ 未命名 %2$@ 檔案。你想在退出之前檢查這些檔案嗎？",
+    "A file or folder with the same name already exists on the %@. Replacing it will overwrite its current contents.": "%@ 已存在同名檔案或者資料夾。替換它會覆蓋當前內容。",
 
     "Craft": "Craft",
     "Toggle Craft": "啟用/禁用 Craft",
