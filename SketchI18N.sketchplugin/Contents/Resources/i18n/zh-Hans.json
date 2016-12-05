@@ -1072,6 +1072,12 @@
     "Problem details and system configuration": "错误细节和系统配置",
     "Comments": "留言",
     "Remove Guide": "移除参考线",
+    "Delete Copy": "删除副本",
+    "You can choose to save your changes, or delete this document immediately. You can’t undo this action.": "你可以选择保存你的更改，或者立即删除这个文件。此操作无法撤销。",
+    "Do you want to keep this new document “%@”?": "你想保留 “%@” 这个新文档吗？",
+    "Untitled (%@)": "未命名 (%@)",
+    "PNG image": "PNG 图片",
+    "PDF Document" : "PDF 文件",
 
     "Craft": "Craft",
     "Toggle Craft": "启用/禁用 Craft",
