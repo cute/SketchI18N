@@ -1071,6 +1071,16 @@
     "Problem Report for %@": "%@ 的错误报告",
     "Problem details and system configuration": "错误细节和系统配置",
     "Comments": "留言",
+    "Remove Guide": "移除参考线",
+    "Delete Copy": "删除副本",
+    "You can choose to save your changes, or delete this document immediately. You can’t undo this action.": "你可以选择保存你的更改，或者立即删除这个文件。此操作无法撤销。",
+    "Do you want to keep this new document “%@”?": "你想保留 “%@” 这个新文档吗？",
+    "Untitled (%@)": "未命名 (%@)",
+    "PNG image": "PNG 图片",
+    "PDF Document" : "PDF 文件",
+    "Unsaved %1$@ Document %2$ld": "未保存的 %1$@ 文件 %2$ld",
+    "Convert Text to Traditional Chinese": "将文本转换为繁体中文",
+    "You have %1$@ untitled %2$@ documents. Do you want to review these documents before quitting?": "你有 %1$@ 未命名 %2$@ 文件。你想在退出之前检查这些文件吗？",
 
     "Craft": "Craft",
     "Toggle Craft": "启用/禁用 Craft",
@@ -1230,8 +1240,8 @@
     "Generate Diagram": "创建 Diagram",
     "Select a layer that you have defined as a Link, then run this command again.": "选择一个你需要作为链接的图层，然后重试这个操作。",
     "Invalid selection": "无效的选择",
-    "Shortcuts are defined by using a combination of modifiers (cmd, control, shift, option) and any other key. For example – 'cmd shift y'. Remember to check if a shortcut is already being used by a different plugin or by Sketch itself." : "快捷键是通过（cmd, control, shift, option）和其他按键组合来定义的的。例如 – 'cmd shift y'。记得检查快捷键是否已经被别的插件或者 Sketch 自己占用。",
-    "User Flows Keyboard Shortcuts" : "User Flows 键盘快捷键",
+    "Shortcuts are defined by using a combination of modifiers (cmd, control, shift, option) and any other key. For example – 'cmd shift y'. Remember to check if a shortcut is already being used by a different plugin or by Sketch itself.": "快捷键是通过（cmd, control, shift, option）和其他按键组合来定义的的。例如 – 'cmd shift y'。记得检查快捷键是否已经被别的插件或者 Sketch 自己占用。",
+    "User Flows Keyboard Shortcuts": "User Flows 键盘快捷键",
     
     "Segmented Circle": "Segmented Circle",
     "Create precise segmented circular graphics for diagrams, instrumentation and analytics": "一款能够创建带有区块、线条的环状图形的神器！",
@@ -1255,7 +1265,6 @@
     "Major ticks length": "次要刻度宽度", 
     "Major ticks": "主要刻度高度",
     "Minor ticks length": "主要刻度高度",
-    "Bottom cutout angle": "底部切口角度", 
     "Ticks Circle": "刻度标记圆",
     "Input values for major and minor ticks.": "输入主要和次要刻度标记圆的值。",
     "Outer radius": "外半径",
@@ -1263,5 +1272,5 @@
     "Length of gaps": "缺口长度",
     "Segmented circle": "分段圆",
     "Number of segments": "段数",
-    "Input values for outer radius, number of segments, thickness etc. \nUse a thickness of 1 or less to create lines instead of areas.": "对于外半径，段数的输入值，厚度等\n使用的厚度为1或更小，以创建线代替区域。",
+    "Input values for outer radius, number of segments, thickness etc. \nUse a thickness of 1 or less to create lines instead of areas.": "对于外半径，段数的输入值，厚度等\n使用的厚度为1或更小，以创建线代替区域。"
 }
