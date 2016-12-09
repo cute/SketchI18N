@@ -1087,6 +1087,10 @@
     "A file or folder with the same name already exists on the %@. Replacing it will overwrite its current contents.": "%@ 已存在同名檔案或者資料夾。替換它會覆蓋當前內容。",
     "Symbol is Missing": "元件已丟失",
     "Back To Instance": "返回到例項",
+    "Remove Image Override": "移除覆蓋的圖片",
+    "The value %@ is invalid.": "%@ 是無效的值。",
+    "Convert Symbol to Artboard": "將元件轉換為畫板",
+    "Quick Look": "快速檢視",
 
     "Craft": "Craft",
     "Toggle Craft": "啟用/禁用 Craft",
