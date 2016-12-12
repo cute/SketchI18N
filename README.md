@@ -5,8 +5,8 @@ SketchI18N is multi-language plugin for Sketch.app
 ![Chinese Simplified](http://i.imgur.com/IoERvfU.png)
 
 ## Language Support
-* 中文简体 (Chinese Simplified) - [cute](https://github.com/cute/), [utom](http://utom.design) and [Pluwen](https://twitter.com/pluwen)
-* 中文繁体 (Chinese Traditional) - [Pluwen](https://twitter.com/pluwen)
+* 简体中文 (Chinese Simplified) - [cute](https://github.com/cute/), [utom](http://utom.design) and [Pluwen](https://twitter.com/pluwen)
+* 繁体中文 (Chinese Traditional) - [Pluwen](https://twitter.com/pluwen)，[Zih-Hong](http://zihhonglin.com)
 
 ## Plugins Internationalized
 * [Craft](https://www.invisionapp.com/craft)
