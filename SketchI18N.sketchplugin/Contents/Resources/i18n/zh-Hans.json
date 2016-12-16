@@ -1094,7 +1094,7 @@
     "untitled folder": "未命名文件夹",
 
     "Craft": "Craft",
-    "Toggle Craft": "启用/禁用 Craft",
+    "Toggle Craft": "切换 Craft",
     "CUSTOM": "自定义",
     "WEB": "网页",
     "Library": "资源库",
@@ -1177,7 +1177,7 @@
     "Replace with:": "替换为：",
 
     "Sketch I18N": "Sketch I18N",
-    "Toggle I18N": "启用/禁用 I18N",
+    "Toggle I18N": "切换 I18N",
 
     "Color Picker Plus": "拾色器 Plus",
     "Pick Border Color": "拾取边框颜色",
@@ -1256,7 +1256,7 @@
     
     "Segmented Circle": "Segmented Circle",
     "Create precise segmented circular graphics for diagrams, instrumentation and analytics": "一款能够创建带有区块、线条的环状图形的神器！",
-    "Create Segmented Circle": "创建分割圆",
+    "Create Segmented Circle": "创建分段圆",
     "Create Variable Segments Circle": "创建变量细分圆",
     "Create Tickmarks Circle": "创建刻度标记圆",
     "Create Dashed Circle": "创建虚线圆",
