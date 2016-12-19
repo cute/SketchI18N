@@ -1283,5 +1283,14 @@
     "Length of gaps": "缺口长度",
     "Segmented circle": "分段圆",
     "Number of segments": "段数",
-    "Input values for outer radius, number of segments, thickness etc. \nUse a thickness of 1 or less to create lines instead of areas.": "对于外半径，段数的输入值，厚度等\n使用的厚度为1或更小，以创建线代替区域。"
+    "Input values for outer radius, number of segments, thickness etc. \nUse a thickness of 1 or less to create lines instead of areas.": "对于外半径，段数的输入值，厚度等\n使用的厚度为1或更小，以创建线代替区域。",
+
+    "Artboard Tricks": "Artboard Tricks",
+    "Select Artboards Containing Selection": "选择包含选中项的画板",
+    "Rearrange Artboards Into Grid": "重排画板对齐到网格",
+    "Set Artboard Spacing for Rearrange": "设置重排画板间距",
+    "Prefix Artboard Names With Numbers": "画板名增加数字前缀",
+    "Remove Artboard Number Prefixes": "移除画板数字前缀",
+    "User Input": "用户输入",
+    "Enter comma-separated X and Y spacing.": "输入 X,Y 轴间距值，用半角逗号隔开。"
 }
