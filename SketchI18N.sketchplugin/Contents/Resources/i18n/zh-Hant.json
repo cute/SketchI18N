@@ -1328,15 +1328,15 @@
     "Use the up arrow to access previously typed queries. Only works when the input field is empty.": "使用向上箭頭訪問以前輸入的查詢。 僅在輸入欄位為空時有效。",
     "Holding Option temporarily reverses this setting.": "按住 Option 鍵暫時反轉此設定。",
 
-    "HSL Color Picker" : "HSL 拾色器",
-    "Hue Plus (H+10) 🏳️‍🌈" : "提高色相 (H+10) 🏳️‍🌈",
-    "Hue Minus (H-10) 🏳️‍🌈" : "降低色相 (H-10) 🏳️‍🌈",
-    "More Bright (S+5) 🙈" : "提高飽和度 (S+5) 🙈",
-    "More Gray (S-5) 🙉" : "降低飽和度 (S-5) 🙉",
-    "More Light (L+5) 👦🏼" : "提高亮度 (L+5) 👦🏼",
-    "More Dark (L-5) 👦🏿" : "降低亮度 (L-5) 👦🏿",
-    "Report Issue 🐞" : "報告問題 🐞",
-    "Color Picker 🎨" : "拾色器 🎨",
-    "Web Site 🌏" : "網站 🌏",
-    "Donate via PayPal 💵 " : "通過 PayPal 捐贈 💵 "
+    "HSL Color Picker": "HSL 拾色器",
+    "Hue Plus (H+10) 🏳️‍🌈": "提高色相 (H+10) 🏳️‍🌈",
+    "Hue Minus (H-10) 🏳️‍🌈": "降低色相 (H-10) 🏳️‍🌈",
+    "More Bright (S+5) 🙈": "提高飽和度 (S+5) 🙈",
+    "More Gray (S-5) 🙉": "降低飽和度 (S-5) 🙉",
+    "More Light (L+5) 👦🏼": "提高亮度 (L+5) 👦🏼",
+    "More Dark (L-5) 👦🏿": "降低亮度 (L-5) 👦🏿",
+    "Report Issue 🐞": "報告問題 🐞",
+    "Color Picker 🎨": "拾色器 🎨",
+    "Web Site 🌏": "網站 🌏",
+    "Donate via PayPal 💵 ": "通過 PayPal 捐贈 💵 "
 }
