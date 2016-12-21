@@ -1135,6 +1135,7 @@
     "First Create an Artboard...": "先创建一个画板…",
     "Duplicate Artboard": "复制画板",
     "Please select a Prototype first.": "请先选择一个原型。",
+    "Select layer inside the symbol": "请选择组件中的一个图层",
 
     "PaintCode Plugin": "PaintCode 插件",
     "Choose Drawings": "选择图形",
@@ -1325,5 +1326,17 @@
     "Dark Mode": "深色模式",
     "Dark Theme": "深色主题",
     "Use the up arrow to access previously typed queries. Only works when the input field is empty.": "使用向上箭头访问以前输入的查询。 仅在输入字段为空时有效。",
-    "Holding Option temporarily reverses this setting.": "按住 Option 键暂时反转此设置。"
+    "Holding Option temporarily reverses this setting.": "按住 Option 键暂时反转此设置。",
+
+    "HSL Color Picker" : "HSL 拾色器",
+    "Hue Plus (H+10) 🏳️‍🌈" : "提高色相 (H+10) 🏳️‍🌈",
+    "Hue Minus (H-10) 🏳️‍🌈" : "降低色相 (H-10) 🏳️‍🌈",
+    "More Bright (S+5) 🙈" : "提高饱和度 (S+5) 🙈",
+    "More Gray (S-5) 🙉" : "降低饱和度 (S-5) 🙉",
+    "More Light (L+5) 👦🏼" : "提高明度 (L+5) 👦🏼",
+    "More Dark (L-5) 👦🏿" : "降低明度 (L-5) 👦🏿",
+    "Report Issue 🐞" : "报告问题 🐞",
+    "Color Picker 🎨" : "拾色器 🎨",
+    "Web Site 🌏" : "网站 🌏",
+    "Donate via PayPal 💵 " : "通过 PayPal 捐赠 💵 "
 }

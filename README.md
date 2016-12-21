@@ -23,6 +23,7 @@ SketchI18N is multi-language plugin for Sketch.app
 * [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle)
 * [Artboard Tricks](https://github.com/romannurik/Sketch-ArtboardTricks/)
 * [Runner](http://sketchrunner.com/)
+* [HSL Color Picker](https://github.com/Ashung/HSL_Color_Picker)
 
 ## Installation
 1. [Download the ZIP file with the SketchI18N](https://github.com/cute/SketchI18N/archive/master.zip) and unzip
