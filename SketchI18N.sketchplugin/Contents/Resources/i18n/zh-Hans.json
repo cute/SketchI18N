@@ -1338,5 +1338,11 @@
     "Report Issue 🐞": "报告问题 🐞",
     "Color Picker 🎨": "拾色器 🎨",
     "Web Site 🌏": "网站 🌏",
-    "Donate via PayPal 💵 ": "通过 PayPal 捐赠 💵 "
+    "Donate via PayPal 💵 ": "通过 PayPal 捐赠 💵 ",
+
+    "Rename Instances": "重命名组件实例",
+    "Rename Selected Instances": "重命名所选实例",
+    "Rename All Instances": "重命名全部实例",
+    "Rename Instances of Selected Symbols": "重命名所选组件的实例",
+    "Rename All Instances on Current Page": "重命名当前页面全部实例"
 }
