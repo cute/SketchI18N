@@ -21,6 +21,10 @@ SketchI18N is multi-language plugin for Sketch.app
 * [Unsplash It](https://github.com/fhuel/Unsplash-It-Sketch)
 * [User Flows](https://github.com/abynim/UserFlows)
 * [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle)
+* [Artboard Tricks](https://github.com/romannurik/Sketch-ArtboardTricks/)
+* [Runner](http://sketchrunner.com/)
+* [HSL Color Picker](https://github.com/Ashung/HSL_Color_Picker)
+* [Rename Instances](https://github.com/exevil/sketch-rename-instances)
 
 ## Installation
 1. [Download the ZIP file with the SketchI18N](https://github.com/cute/SketchI18N/archive/master.zip) and unzip
