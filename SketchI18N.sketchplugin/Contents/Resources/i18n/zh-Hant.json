@@ -1103,7 +1103,7 @@
     "You can’t undo this action.": "此操作無法撤銷",
     "Press the ＋ button to create a new slice preset.": "按 ＋ 新增一個新的切片預設。",
     "Are you sure you want to remove “%@”?": "你確定要刪除 “%@” 嗎？",
-    "Presets can be applied to slices, Artboards, and exportable layers.": "預設可以被應用到切片，畫板和可匯出的圖層。",
+    "Presets can be applied to slices, Artboards, and exportable layers.": "預設可以被應用到切片、畫板和可匯出的圖層。",
     "Selects which preset is to be applied to exportable items by default.": "選擇應用於可匯出專案的預設預設。",
     "Restore Defaults": "恢復預設",
     "Edit Presets...": "編輯預設...",
@@ -1283,6 +1283,9 @@
     "Invalid selection": "無效的選擇",
     "Shortcuts are defined by using a combination of modifiers (cmd, control, shift, option) and any other key. For example – 'cmd shift y'. Remember to check if a shortcut is already being used by a different plugin or by Sketch itself.": "快捷鍵是通過（cmd, control, shift, option）和其他按鍵組合來定義的的。例如 – 'cmd shift y'。記得檢查快捷鍵是否已經被別的外掛或者 Sketch 自己佔用。",
     "User Flows Keyboard Shortcuts": "User Flows 鍵盤快捷鍵",
+    "Keyboard Shortcuts...": "鍵盤快捷鍵...",
+    "Settings...": "設定...",
+    "Language..." : "語言...",
 
     "Segmented Circle": "Segmented Circle",
     "Create precise segmented circular graphics for diagrams, instrumentation and analytics": "一款能夠建立帶有區塊、線條的環狀圖形的神器！",
