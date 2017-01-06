@@ -19,7 +19,6 @@ SketchI18N is multi-language plugin for Sketch.app
 * [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines)
 * [Slicer](https://github.com/ozzik/Slicer)
 * [Unsplash It](https://github.com/fhuel/Unsplash-It-Sketch)
-* [User Flows](https://github.com/abynim/UserFlows)
 * [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle)
 * [Artboard Tricks](https://github.com/romannurik/Sketch-ArtboardTricks/)
 * [Runner](http://sketchrunner.com/)
