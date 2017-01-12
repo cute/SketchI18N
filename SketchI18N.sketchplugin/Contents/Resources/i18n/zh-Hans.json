@@ -1121,6 +1121,8 @@
     "Renew License": "更新授权",
     "REGISTERED TO": "已注册给",
     "Overwrite Existing Files": "覆盖已存在的文件",
+    "Document:": "文档：",
+    "Global:": "全局:",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
@@ -1335,6 +1337,7 @@
     "Dark Theme": "深色主题",
     "Use the up arrow to access previously typed queries. Only works when the input field is empty.": "使用向上箭头访问以前输入的查询。 仅在输入字段为空时有效。",
     "Holding Option temporarily reverses this setting.": "按住 Option 键暂时反转此设置。",
+    "Run Last Action": "执行最后一次操作",
 
     "HSL Color Picker": "HSL 拾色器",
     "Hue Plus (H+10) 🏳️‍🌈": "提高色相 (H+10) 🏳️‍🌈",
