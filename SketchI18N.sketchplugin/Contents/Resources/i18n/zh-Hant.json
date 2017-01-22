@@ -1155,6 +1155,8 @@
     "Character Picker": "字元選擇器",
     "Candidate Bar": "候選條",
     "Candidate List": "候選列表",
+    "Creating a Symbol from an Artboard": "正在從畫板建立元件",
+    "You are about to convert an Artboard into a Symbol. You will now be able to insert instances of this Symbol into your design via the Insert menu.": "你即將把畫板轉換為元件。你將可以通過插入選單將此元件的例項插入到設計中。",
 
     "Craft": "Craft",
     "Toggle Craft": "切換 Craft",
