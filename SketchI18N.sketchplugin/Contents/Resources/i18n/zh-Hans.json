@@ -1158,6 +1158,8 @@
     "Creating a Symbol from an Artboard": "正在从画板创建组件",
     "You are about to convert an Artboard into a Symbol. You will now be able to insert instances of this Symbol into your design via the Insert menu.": "你即将把画板转换为组件。你将可以通过插入菜单将此组件的实例插入到设计中。",
     "JPG does not support transparency. Transparent pixels will turn white instead. If you want transparency in your images, save as PNG instead.": "JPG 不支持透明。透明像素会用白色来代替。如果你希望在图片中保留透明，请保存为 PNG 格式。",
+    "Duplicate Pages": "复制页面",
+    "Delete Pages": "删除页面",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
