@@ -1174,6 +1174,9 @@
     "Noise Fill": "噪点填充",
     "Flat Color": "纯色",
     "1 Border": "1 个边框",
+    "1 Fill": "1 个填充",
+    "Rotate clockwise": "顺时针旋转",
+    "Rotate counter-clockwise": "逆时针旋转",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
