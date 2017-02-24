@@ -1160,6 +1160,9 @@
     "JPG does not support transparency. Transparent pixels will turn white instead. If you want transparency in your images, save as PNG instead.": "JPG 不支持透明。透明像素会用白色来代替。如果你希望在图片中保留透明，请保存为 PNG 格式。",
     "Duplicate Pages": "复制页面",
     "Delete Pages": "删除页面",
+    "You have %1$@ %2$@ documents with unconfirmed changes. Do you want to review these changes before quitting?": "你有 %1$@ %2$@ 个文档包含未确认的更改。你想在退出前检查这些更改吗？",
+    "Save and Quit": "保存并退出",
+    "If you don’t review your documents, all your changes will be saved.": "如果你不检查你的文档，你的所有更改将被保存。",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
