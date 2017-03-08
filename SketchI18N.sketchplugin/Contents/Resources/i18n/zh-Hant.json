@@ -1180,6 +1180,9 @@
     "Rotate counter-clockwise": "逆時針旋轉",
     "Move To:": "移動到：",
     "Move": "移動",
+    "Older versions of Sketch will not be able to read this file once it is saved. Unlock or Duplicate it if you wish to modify it.": "當這個檔案儲存後，舊版 Sketch 將無法讀取。如果你想修改它，請解鎖或者複製。",
+    "If you want to make changes to this document, click Unlock. To keep the file unchanged and work with a copy, click Duplicate.": "如果你想修改文件，點選解鎖。想不修改文件並啟用新的副本，點選複製。",
+    "The file is locked.": "該檔案已鎖定。",
 
     "Craft": "Craft",
     "Toggle Craft": "切換 Craft",
