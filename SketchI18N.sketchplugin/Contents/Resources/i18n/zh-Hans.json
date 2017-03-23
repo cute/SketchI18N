@@ -1267,6 +1267,8 @@
     "Starts Number Sequence From:": "起始数字序号：",
     "Find:": "查找：",
     "Replace with:": "替换为：",
+    "Find & Replace Layers Names": "查找/替换图层名称",
+    "Find and replace text in the selected layer(s) * CASE SENSITIVE *": "查找并替换所选图层中的文本 * 区分大小写 *",
 
     "Sketch I18N": "Sketch I18N",
     "Toggle I18N": "切换 I18N",
