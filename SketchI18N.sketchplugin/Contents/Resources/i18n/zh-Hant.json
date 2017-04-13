@@ -1181,6 +1181,11 @@
     "Older versions of Sketch will not be able to read this file once it is saved. Unlock or Duplicate it if you wish to modify it.": "當這個檔案儲存後，舊版 Sketch 將無法讀取。如果你想修改它，請解鎖或者複製。",
     "If you want to make changes to this document, click Unlock. To keep the file unchanged and work with a copy, click Duplicate.": "如果你想修改文件，點選解鎖。想不修改文件並啟用新的副本，點選複製。",
     "The file is locked.": "該檔案已鎖定。",
+    "If you don’t review your documents, all untitled documents will be deleted and your other changes will be saved.": "如果你不檢查你的檔案，所有未命名檔案將被刪除，其它的修改將被儲存。",
+    "The file couldn’t be opened because it doesn’t exist.": "無法開啟不存在的檔案。",
+    "Documents": "文件",
+    "Quit Anyway": "仍然退出",
+    "Quit": "退出",
 
     "Craft": "Craft",
     "Toggle Craft": "切換 Craft",
