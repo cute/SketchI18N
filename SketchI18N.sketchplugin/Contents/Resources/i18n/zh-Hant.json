@@ -521,6 +521,7 @@
     "… or drag the default set into the toolbar.": "… 或者將預設的一組拖入工具欄。",
     "Scale Layers": "縮放圖層",
     "Resizes the selected layers. Style attributes such as border thickness, shadow size, etc will be scaled appropriately.": "調整選中的圖層大小。樣式屬性比如描邊粗細，陰影大小等會適當調整。",
+    "Resizes the selected layers. Style attributes such as border thickness, shadow size, and radius will be scaled appropriately.": "調整選中的圖層大小。樣式屬性比如描邊粗細，陰影大小以及圓角會自動調整。",
     "Resize To:": "調整為：",
     "Scale from center": "中心固定縮放",
     "Scale from left": "左側固定縮放",

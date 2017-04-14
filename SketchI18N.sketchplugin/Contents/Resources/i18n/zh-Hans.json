@@ -521,6 +521,7 @@
     "… or drag the default set into the toolbar.": "… 或者将默认的一组拖入工具栏。",
     "Scale Layers": "缩放图层",
     "Resizes the selected layers. Style attributes such as border thickness, shadow size, etc will be scaled appropriately.": "调整选中的图层大小。样式属性比如描边粗细，阴影大小等会适当调整。",
+    "Resizes the selected layers. Style attributes such as border thickness, shadow size, and radius will be scaled appropriately.": "调整选中的图层大小。样式属性比如描边粗细，阴影大小以及圆角会自动调整。",
     "Resize To:": "调整为：",
     "Scale from center": "中心固定缩放",
     "Scale from left": "左侧固定缩放",
@@ -1185,7 +1186,7 @@
     "The file couldn’t be opened because it doesn’t exist.": "无法打开不存在的文件。",
     "Documents": "文档",
     "Quit Anyway": "仍然退出",
-    "Quit" : "退出",
+    "Quit": "退出",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
