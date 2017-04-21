@@ -33,3 +33,5 @@ SketchI18N is multi-language plugin for Sketch.app
 * Author by [cute](https://github.com/cute/)
 * [Sketch Measure](http://utom.design/measure), from [utom](http://utom.design)
 * [Pluwen](https://twitter.com/pluwen)
+
+<a href="http://bit.ly/SketchRunnerWebsite"><img height="40" width="160" src="http://sketchrunner.com/img/badge_blue.png"></a>
