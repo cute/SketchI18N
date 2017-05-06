@@ -1250,6 +1250,11 @@
     "No Results Found": "找不到结果",
     "Show All Help Topics": "显示全部帮助主题",
     "Network Utility Help": "网络实用工具帮助",
+    "The document “%1$@” could not be autosaved. %2$@": "这个文档 “%1$@” 无法自动保存。%2$@",
+    "%@ You can also discard your changes to close the document.": "%@ 你也可以撤销你的修改，并关闭这个文档。",
+    "Do you want to save your changes to it anyway? You can also discard your changes to close the document.": "你想强制保存你的修改吗？你也可以撤销你的修改，并关闭这个文档。",
+    "Do you want to save your changes to it anyway?": "你想强制保存你的修改吗？",
+    "Not Saved": "未保存",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
