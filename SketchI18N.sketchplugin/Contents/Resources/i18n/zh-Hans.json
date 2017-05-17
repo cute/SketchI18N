@@ -1274,10 +1274,11 @@
     "Register…": "注册…",
     "You are currently running a trial version of Sketch. To remove the trial limitations, please purchase a license key from our store.": "你当前正在使用试用版的 Sketch。要移除试用版的限制，请到我们的商店购买授权序列号。",
     "Checking For Updates…": "检查更新…",
-    "You are 1 update behind": "你有1个更新",
+    "You are %@ updates behind": "你有%@个更新",
     "Drag-and-drop outside Sketch to Export this slice": "拖拽到 Sketch 外来导出这个切片",
     "Bulleted list": "项目符号列表",
     "Numbered list": "数字编号列表",
+    "Reduce image size…": "减小图像大小…",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
@@ -1412,6 +1413,7 @@
     "Save Palette": "保存调色板",
     "Load Palette...": "导入调色板…",
     "Save Palette...": "保存调色板…",
+    "Clear Palette...": "清空调色板…",
     "Due to Apple's Sandboxing technology, Sketch needs your permission to write to this folder.": "由于苹果的沙盒技术，Sketch 需要你的权限写入此文件夹。",
     "Your plugin out of date. Please update to the latest version of Sketch Palettes.": "你的插件已过期。请更新到最新版本的 Sketch 调色板。",
 
@@ -1513,6 +1515,12 @@
     "Show commands bar": "显示命令条",
     "Symbol Name": "组件名",
     "When inserting Symbols, you can choose to ignore items with a prefix and\/or suffix.": "插入组件时，你可以选择忽略带有前缀／后缀的项目。",
+    "Use ⌥ + return to replace selected layers": "按 ⌥ + return 替换选中的图层",
+    "Customize Runner Toolbar Menu": "自定义 Runner 工具栏菜单",
+    "Customize Menu...": "自定义菜单...",
+    "Use ⌥ + return to launch plugin homepage. ⌘ + delete to uninstall the selected plugin.": "按 ⌥ + return 访问插件主页。⌘ + delete 卸载选中的插件。",
+    "Automatically select the last used command": "自动选择上次使用的命令",
+    "Use fuzzy search (experimental)": "使用模糊搜索（实验）",
 
     "HSL Color Picker": "HSL 拾色器",
     "Hue Plus (H+10) 🏳️‍🌈": "提高色相 (H+10) 🏳️‍🌈",
