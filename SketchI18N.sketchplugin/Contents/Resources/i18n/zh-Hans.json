@@ -1677,5 +1677,7 @@
     "Rename Selected Instances": "重命名所选实例",
     "Rename All Instances": "重命名全部实例",
     "Rename Instances of Selected Symbols": "重命名所选组件的实例",
-    "Rename All Instances on Current Page": "重命名当前页面全部实例"
+    "Rename All Instances on Current Page": "重命名当前页面全部实例",
+
+    "Export to MockingBot": "导出选中的画板到墨刀"
 }
