@@ -1357,6 +1357,8 @@
     "Smooth opacity": "平滑不透明度",
     "Incompatible Plugins Disabled": "已禁用不兼容的插件",
     "Multiple Sizes": "多种尺寸",
+    "Plugin Updates": "插件更新",
+    "Version %@ available": "%@ 版本可用",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",

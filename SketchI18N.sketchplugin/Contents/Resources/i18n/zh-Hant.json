@@ -1357,6 +1357,8 @@
     "Smooth opacity": "平滑不透明度",
     "Incompatible Plugins Disabled": "已禁用不相容的外掛",
     "Multiple Sizes": "多種尺寸",
+    "Plugin Updates": "外掛更新",
+    "Version %@ available": "%@ 版本可用",
 
     "Craft": "Craft",
     "Toggle Craft": "切換 Craft",
