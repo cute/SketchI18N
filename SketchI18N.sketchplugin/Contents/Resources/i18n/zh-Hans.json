@@ -767,6 +767,7 @@
     "Thank you for supporting the future development of Sketch.": "感谢你支持 Sketch 的未来发展。",
     "License Key:": "注册码：",
     "Visit Store...": "访问商店…",
+    "Visit Store…": "访问商店…",
     "You are currently running a trial version of Sketch. To remove the trial\nlimitations, please purchase a license key from our store.": "你现在使用的是试用版的 Sketch。\n要解除试用版的限制，请到我们的商店购买注册码。",
     "If you have already purchased Sketch from our store, you should have received a license key via email to enter above.": "如果你已经从我们的商店购买了 Sketch，请输入通过电子邮件收到的注册码。",
     "Layer Styles": "图层样式",
@@ -1359,6 +1360,8 @@
     "Multiple Sizes": "多种尺寸",
     "Plugin Updates": "插件更新",
     "Version %@ available": "%@ 版本可用",
+    "Enjoying using Sketch? Please consider purchasing a license to continue using Sketch once the trial is over. You have": "感觉 Sketch 很好用吗？请考虑在试用到期的时候购买 Sketch 授权。你还可以试用",
+    "%d trial days remaining.": " %d 天。",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
