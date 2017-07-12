@@ -1362,6 +1362,9 @@
     "Version %@ available": "%@ 版本可用",
     "Enjoying using Sketch? Please consider purchasing a license to continue using Sketch once the trial is over. You have": "感觉 Sketch 很好用吗？请考虑在试用到期的时候购买 Sketch 授权。你还可以试用",
     "%d trial days remaining.": " %d 天。",
+    "Disable “%@”": "禁用 “%@”",
+    "Disable Selected Plugins": "禁用选中的插件",
+    "Uninstall Selected Plugins": "卸载选中的插件",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
@@ -1395,7 +1398,7 @@
     "Footer": "底栏",
     "Web View": "网页视图",
     "Insert Link": "插入连接",
-    "Selected Component": "所选组件",
+    "Selected Component": "选中的组件",
     "Current Screen": "当前屏幕",
     "Current Prototype": "当前原型",
     "Duplicate inside selection": "复制到所选内部",
