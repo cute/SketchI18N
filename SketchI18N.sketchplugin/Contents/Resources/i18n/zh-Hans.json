@@ -1519,7 +1519,8 @@
     "Developer": "开发者",
 
     "Rename It": "Rename It",
-    "Rename Selected Layers": "重命名所选图层",
+    "Rename Selected Layers": "重命名选中的图层",
+    "Rename Selected Artboard" : "重命名选中的画板",
     "Find and Replace": "查找和替换",
     "Find & Replace": "查找 & 替换",
     "Rename it: You need to select at least one layer": "Rename it：你至少要选中一个图层",
