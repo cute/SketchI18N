@@ -1365,6 +1365,9 @@
     "Disable “%@”": "禁用 “%@”",
     "Disable Selected Plugins": "禁用选中的插件",
     "Uninstall Selected Plugins": "卸载选中的插件",
+    "The document “%@” is on a volume that does not support permanent version storage.": "“%@” 文档所在的磁盘不支持永久版本存储。",
+    "There is not enough space to save this document to iCloud. You can purchase additional storage or remove documents from your iCloud library.": "没有足够的空间将此文档保存到 iCloud。你可以购买额外的存储空间或从 iCloud 库中删除文档。",
+    "You will not be able to access older versions of this document once you close it.": "关闭此文档后，你将无法访问该文档的旧版本。",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
@@ -1520,7 +1523,7 @@
 
     "Rename It": "Rename It",
     "Rename Selected Layers": "重命名选中的图层",
-    "Rename Selected Artboard" : "重命名选中的画板",
+    "Rename Selected Artboard": "重命名选中的画板",
     "Find and Replace": "查找和替换",
     "Find & Replace": "查找 & 替换",
     "Rename it: You need to select at least one layer": "Rename it：你至少要选中一个图层",
