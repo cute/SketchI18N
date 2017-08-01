@@ -1,6 +1,6 @@
 {
     "name": "Sketch I18N",
-    "description": "Sketch I18N",
+    "description": "SketchI18N is multi-language plugin for Sketch",
     "author": "@liguangming",
     "homepage": "http://liguangming.com",
     "version": "1.1.6",
@@ -24,6 +24,8 @@
         "name": "Toggle I18N",
         "identifier": "i18n-toggle-command",
         "script": "app.js",
+        "description": "Auto translate Sketch to your mother language.",
+        "icon": "icons/sketchi18n.png",
         "handler": "onRun",
     }],
     "menu": {
