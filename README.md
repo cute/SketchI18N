@@ -26,7 +26,12 @@ SketchI18N is multi-language plugin for Sketch.app
 * [Rename Instances](https://github.com/exevil/sketch-rename-instances)
 * [MockingBot](https://mockingbot.com/sketch)
 
-## Installation
+## Install with Sketch Runner
+With Sketch Runner, just go to the `install` command and search for `sketchi18n`. Runner allows you to manage plugins and do much more to speed up your workflow in Sketch. [Download Runner here](http://www.sketchrunner.com).
+
+![Sketch Runner screenshot](https://user-images.githubusercontent.com/555720/28832730-ec4c4782-76a2-11e7-9463-c926d9cb6756.png)
+
+## Manual Installation
 1. [Download the ZIP file with the SketchI18N](https://github.com/cute/SketchI18N/archive/master.zip) and unzip
 2. Open the `SketchI18N.sketchplugin`
 
