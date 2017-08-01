@@ -472,7 +472,7 @@
     "Fill Selection": "填充选区",
     "Exclude Sublayers": "排除子图层",
     "Mirror": "Mirror",
-    "Sketch Mirror:": "Sketch Mirror:",
+    "Sketch Mirror:": "Sketch Mirror：",
     "Connect to Mirror...": "连接 Mirror…",
     "Connect to Mirror…": "连接 Mirror…",
     "Connect to devices running Sketch Mirror.": "连接到运行 Sketch Mirror 的设备",
@@ -1388,6 +1388,7 @@
     "Are you sure you want to convert this Symbol to an Artboard?": "你确定要将这些组件转换成画板吗？",
     "Version %@ of plugin “%@” is already installed.": "已安装 “%@” 版本的 %@ 插件。",
     "Do you want to replace it with “%@” %@?": "你想将它替换为 “%@” %@ 吗？",
+    "Select group’s content on click": "点击时选中分组内容",
 
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
