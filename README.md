@@ -7,6 +7,7 @@ SketchI18N is multi-language plugin for Sketch.app
 ## Language Support
 * 简体中文 (Chinese Simplified) - [cute](https://github.com/cute/), [utom](http://utom.design) and [Pluwen](https://twitter.com/pluwen)
 * 繁体中文 (Chinese Traditional) - [Pluwen](https://twitter.com/pluwen)，[Zih-Hong](http://zihhonglin.com)
+* 한 웬 (Korean) - Translation is begin
 
 ## Plugins Internationalized
 * [Craft](https://www.invisionapp.com/craft)
@@ -26,7 +27,12 @@ SketchI18N is multi-language plugin for Sketch.app
 * [Rename Instances](https://github.com/exevil/sketch-rename-instances)
 * [MockingBot](https://mockingbot.com/sketch)
 
-## Installation
+## Install with Sketch Runner
+With Sketch Runner, just go to the `install` command and search for `Sketch I18N`. Runner allows you to manage plugins and do much more to speed up your workflow in Sketch. [Download Runner here](http://www.sketchrunner.com).
+
+![Sketch Runner screenshot](https://user-images.githubusercontent.com/555720/28832730-ec4c4782-76a2-11e7-9463-c926d9cb6756.png)
+
+## Manual Installation
 1. [Download the ZIP file with the SketchI18N](https://github.com/cute/SketchI18N/archive/master.zip) and unzip
 2. Open the `SketchI18N.sketchplugin`
 
