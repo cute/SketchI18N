@@ -41,7 +41,7 @@
     "Align Center": "居中对齐",
     "Export Artboards to PDF": "导出画板为 PDF",
     "Convert to Outlines": "转化为轮廓",
-    "Detach or Remove Symbol": "解除\/移除组件",
+    "Detach or Remove Symbol": "解除/移除组件",
     "Start Dictation…": "开始听写…",
     "Gaussian Blur": "高斯模糊",
     "Amount": "半径",
@@ -437,7 +437,7 @@
     "Shared Style": "共享样式",
     "Organize Shared Styles": "管理共享样式",
     "Create New Shared Style": "创建新的共享样式",
-    "Thickness": "粗细",
+    "Thickness": "厚度",
     "Inside": "内部",
     "Outside": "外部",
     "Darken": "变暗",
@@ -978,7 +978,7 @@
     "Layout Orientation": "布局方向",
     "Vertical": "竖排",
     "Horizontal": "横排",
-    "Smart Copy\/Paste": "智能拷贝\/粘贴",
+    "Smart Copy/Paste": "智能拷贝/粘贴",
     "Languages": "语言",
     "Check Spelling While Typing": "键入时检查拼写",
     "Check Grammar With Spelling": "检查拼写和语法",
@@ -1137,7 +1137,7 @@
     "Flip Horizontally": "水平翻转",
     "Flip Vertically": "垂直翻转",
     "Apply a slice preset": "应用切片预设",
-    "Prefix\/Suffix": "前缀\/后缀",
+    "Prefix/Suffix": "前缀/后缀",
     "Prefix": "前缀",
     "Presets": "预设",
     "No Presets": "没有预设",
@@ -1213,7 +1213,6 @@
     "Save and Quit": "保存并退出",
     "If you don’t review your documents, all your changes will be saved.": "如果你不检查你的文档，你的所有更改将被保存。",
     "Create new %@": "创建新的%@",
-    "Undo 移动图层": "撤销移动图层",
     "Linear Gradient": "线性渐变",
     "Radial Gradient": "径向渐变",
     "Angular Gradient": "角度渐变",
@@ -1402,7 +1401,7 @@
     "US Letter": "美国信纸",
     "US Legal": "美国法定用纸",
     "Envelope DL": "DL 信封",
-    "Super B\/A3": "超大 B\/A3 型",
+    "Super B/A3": "超大 B/A3 型",
     "Tabloid": "小报用纸",
     "Tabloid Oversize": "小报用纸（特大）",
     "Envelope #10": "10 号信封",
@@ -1429,7 +1428,6 @@
     "Top %1$@ Bottom %2$@\n Left %3$@ Right %4$@": "上 %1$@ 下 %2$@\n 左 %3$@ 右 %4$@",
     "Save Template": "保存模板",
     "Templates open as new Sketch documents with a pre-filled design": "模板是以包含设计的 Sketch 新文件形式打开",
-
     "Craft": "Craft",
     "Toggle Craft": "切换 Craft",
     "CUSTOM": "自定义",
@@ -1483,7 +1481,7 @@
     "Reverse transition on Close link": "关闭链接反转过渡",
     "Ready to preview and get feedback? Publish to InVision using Craft Sync.": "准备好预览和获取反馈吗？使用 Craft 的同步功能发布到 InVision。",
     "Add Link": "添加链接",
-    "Link Back\/Close": "链接后退\/关闭",
+    "Link Back/Close": "链接后退/关闭",
     "Tap": "轻触",
     "Link as Overlay": "链接为遮罩层",
     "Sticky Up": "粘起来",
@@ -1550,7 +1548,6 @@
     "Slide Right": "向右滑动",
     "Flip Left": "向左翻转",
     "Flip Right": "向右翻转",
-
     "PaintCode Plugin": "PaintCode 插件",
     "Choose Drawings": "选择图形",
     "Platform & Language": "平台 & 语言",
@@ -1562,7 +1559,6 @@
     "Author": "作者",
     "Company": "公司",
     "Change Code Settings...": "修改代码设置…",
-
     "About Pro Version...": "关于高级版…",
     "Magic Mirror - Free": "Magic Mirror 免费版",
     "Later": "以后",
@@ -1572,7 +1568,6 @@
     "Go To": "跳转到",
     "Create": "创建",
     "Apply": "应用",
-
     "Send to Flinto": "发送到 Flinto",
     "Sending to Flinto...": "正在发送到 Flinto…",
     "Send Artboards to Flinto": "发送画板到 Flinto",
@@ -1581,7 +1576,6 @@
     "Send": "发送",
     "Custom": "自定义",
     "Developer": "开发者",
-
     "Rename It": "Rename It",
     "Rename Selected Layers": "重命名选中的图层",
     "Rename Selected Artboard": "重命名选中的画板",
@@ -1594,18 +1588,13 @@
     "Find & Replace Layers Names": "查找/替换图层名称",
     "Find and replace text in the selected layer(s) * CASE SENSITIVE *": "查找并替换所选图层中的文本 * 区分大小写 *",
     "Helpers: \nNumber Sequence: %N Descending | %n Ascending \nDimensions: %W %H \nMove Original Layer Name: *": "友情提示：\n数字序列：%N 降序 | %n 升序\n图层大小：%W %H \n移动原始图层名称：*",
-
     "Sketch I18N": "Sketch I18N",
     "Toggle I18N": "切换 I18N",
-
     "Color Picker Plus": "拾色器 Plus",
     "Pick Border Color": "拾取边框颜色",
-
     "Utilities": "实用程序",
-
     "✂️ Truncate text lines": "✂️ 截断文本行",
     "How many lines do you need?": "你需要保留多少行？",
-
     "Let's export!": "开始导出吧！",
     "Export anyway": "直接导出",
     "Fix and export": "修复并导出",
@@ -1615,7 +1604,6 @@
     "Select a size preset or go make things complicated...": "选择一个预设的大小或者让事情变得复杂...",
     "Did you forget to set a background color to some artboards?": "你是忘了给一些画板设置背景颜色吗？",
     "If you continue, the exported artboards will have a transparent color.": "如果你直接导出，导出的画板将保留透明背景。",
-
     "Duplicate Left": "朝左复制",
     "Duplicate Right": "朝右复制",
     "Duplicate Above": "朝上复制",
@@ -1629,7 +1617,6 @@
     "Can't duplicate an emptiness! Please select some layers and try again.": "不能重复空白！请选择图层，然后重试。",
     "Can't duplicate Artboards! Please remove all the artboards from the selection.": "无法复制的画板！请从选择中删除所有的画板。",
     "This tool takes the current selection and copies it a specified number of times in a specified direction.": "此工具选择当前的选择，并在指定的方向上复制一个指定的次数。",
-
     "Sketch Palettes": "Sketch 调色板",
     "Clear Palette": "清除调色板",
     "Load Palette": "载入调色板",
@@ -1639,7 +1626,6 @@
     "Clear Palette...": "清空调色板…",
     "Due to Apple's Sandboxing technology, Sketch needs your permission to write to this folder.": "由于苹果的沙盒技术，Sketch 需要你的权限写入此文件夹。",
     "Your plugin out of date. Please update to the latest version of Sketch Palettes.": "你的插件已过期。请更新到最新版本的 Sketch 调色板。",
-
     "Unsplash It": "Unsplash It",
     "A plugin to quickly include great looking images from Unsplash in your Sketch projects": "一个能快速地从 Unsplash 添加精美图片到你的 Sketch 项目中的插件",
     "For this plugin to work right you have to select at least one shape layer": "你必须选择至少一个形状图层，才能让插件正常工作",
@@ -1652,7 +1638,6 @@
     "The layer has to be in an artboard.": "这个图层需要放在画板中。",
     "You can't put constraints on artboards.": "你不能对画板设置限制。",
     "Unsplash It, done!": "Unsplash It，完成！",
-
     "Segmented Circle": "Segmented Circle",
     "Create precise segmented circular graphics for diagrams, instrumentation and analytics": "一款能够创建带有区块、线条的环状图形的神器！",
     "Create Segmented Circle": "创建分段圆",
@@ -1665,7 +1650,6 @@
     "Create Circle": "创建圆",
     "Outer radius": "外半径",
     "Values": "值",
-    "Thickness": "厚度",
     "Bottom cutout angle": "底部切口角度",
     "Outer radius major ticks": "外半径大刻度",
     "Outer radius minor ticks": "外半径小刻度",
@@ -1677,13 +1661,11 @@
     "Minor ticks length": "主要刻度高度",
     "Ticks Circle": "刻度标记圆",
     "Input values for major and minor ticks.": "输入主要和次要刻度标记圆的值。",
-    "Outer radius": "外半径",
     "Length of dashes": "破折号长度",
     "Length of gaps": "缺口长度",
     "Segmented circle": "分段圆",
     "Number of segments": "段数",
     "Input values for outer radius, number of segments, thickness etc. \nUse a thickness of 1 or less to create lines instead of areas.": "对于外半径，段数的输入值，厚度等\n使用的厚度为1或更小，以创建线代替区域。",
-
     "Artboard Tricks": "Artboard Tricks",
     "Select Artboards Containing Selection": "选择包含选中项的画板",
     "Rearrange Artboards Into Grid": "重排画板对齐到网格",
@@ -1692,7 +1674,6 @@
     "Remove Artboard Number Prefixes": "移除画板数字前缀",
     "User Input": "用户输入",
     "Enter comma-separated X and Y spacing.": "输入 X,Y 轴间距值，用半角逗号隔开。",
-
     "🏃🏿 Runner": "🏃🏿 Runner",
     "Runner": "Runner",
     "run": "运行",
@@ -1737,14 +1718,13 @@
     "Focus on last selected command on launch": "启动时定位到最后选择的命令",
     "Show commands bar": "显示命令条",
     "Symbol Name": "组件名",
-    "When inserting Symbols, you can choose to ignore items with a prefix and\/or suffix.": "插入组件时，你可以选择忽略带有前缀／后缀的项目。",
+    "When inserting Symbols, you can choose to ignore items with a prefix and/or suffix.": "插入组件时，你可以选择忽略带有前缀／后缀的项目。",
     "Use ⌥ + return to replace selected layers": "按 ⌥ + return 替换选中的图层",
     "Customize Runner Toolbar Menu": "自定义 Runner 工具栏菜单",
     "Customize Menu...": "自定义菜单...",
     "Use ⌥ + return to launch plugin homepage. ⌘ + delete to uninstall the selected plugin.": "按 ⌥ + return 访问插件主页。⌘ + delete 卸载选中的插件。",
     "Automatically select the last used command": "自动选择上次使用的命令",
     "Use fuzzy search (experimental)": "使用模糊搜索（实验）",
-
     "HSL Color Picker": "HSL 拾色器",
     "Hue Plus (H+10) 🏳️‍🌈": "提高色相 (H+10) 🏳️‍🌈",
     "Hue Minus (H-10) 🏳️‍🌈": "降低色相 (H-10) 🏳️‍🌈",
@@ -1756,12 +1736,12 @@
     "Color Picker 🎨": "拾色器 🎨",
     "Web Site 🌏": "网站 🌏",
     "Donate via PayPal 💵 ": "通过 PayPal 捐赠 💵 ",
-
     "Rename Instances": "重命名组件实例",
     "Rename Selected Instances": "重命名所选实例",
     "Rename All Instances": "重命名全部实例",
     "Rename Instances of Selected Symbols": "重命名所选组件的实例",
     "Rename All Instances on Current Page": "重命名当前页面全部实例",
-
-    "Export to MockingBot": "导出选中的画板到墨刀"
+    "Export to MockingBot": "导出选中的画板到墨刀",
+    "Align Horizo​​ntally": "水平居中",
+    "Sketch Cloud allows you to quickly upload your Sketch documents and share them with friends, colleagues, or anyone else provided with the link — completely free!": "Sketch Cloud 可以让你快速上传你的 Sketch 文件，并与朋友、同事、或其他任何人提供链接 - 这是完全免费的！"
 }
