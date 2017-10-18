@@ -7,26 +7,14 @@ SketchI18N is multi-language plugin for Sketch.app
 ## Language Support
 * 简体中文 (Chinese Simplified) - [cute](https://github.com/cute/), [utom](http://utom.design) and [Pluwen](https://twitter.com/pluwen)
 * 繁体中文 (Chinese Traditional) - [Pluwen](https://twitter.com/pluwen)，[Zih-Hong](http://zihhonglin.com)
-* 日本語 (Japanese) - [littlebusters](https://github.com/littlebusters)
-* Visit [POEditor translation platforms](https://poeditor.com/join/project/Md6yp4IDXV) to translate Sketch to your mother language.
+* 日本語 (Japanese) (63% Finished) - [littlebusters](https://github.com/littlebusters)
+* Français (French) (34% Finished) - [Luc](https://twitter.com/lucpotage)
+* русский (Russian) (9% Finished) - zhanqingyan
+* Deutsche (German) (2% Finished) - huangyuxin
+* 한국어 (Korean) (1% Finished) - Oasis
 
-## Plugins Internationalized
-* [Craft](https://www.invisionapp.com/craft)
-* [PaintCode](https://www.paintcodeapp.com/sketch)
-* [Magic Mirror](https://github.com/MagicSketch/MagicMirror)
-* [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes)
-* [Send to Flinto](https://www.flinto.com/mac_sketch_plugin)
-* [Rename it](https://github.com/rodi01/RenameIt)
-* [Color Picker Plus](https://github.com/heysketch/sketch-color-picker-plus)
-* [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines)
-* [Slicer](https://github.com/ozzik/Slicer)
-* [Unsplash It](https://github.com/fhuel/Unsplash-It-Sketch)
-* [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle)
-* [Artboard Tricks](https://github.com/romannurik/Sketch-ArtboardTricks/)
-* [Runner](http://sketchrunner.com/)
-* [HSL Color Picker](https://github.com/Ashung/HSL_Color_Picker)
-* [Rename Instances](https://github.com/exevil/sketch-rename-instances)
-* [MockingBot](https://mockingbot.com/sketch)
+## Translation Project
+* Visit [POEditor](https://poeditor.com/join/project/Md6yp4IDXV) to contribute your mother language.
 
 ## Install with Sketch Runner
 With Sketch Runner, just go to the `install` command and search for `Sketch I18N`. Runner allows you to manage plugins and do much more to speed up your workflow in Sketch. [Download Runner here](http://www.sketchrunner.com).
