@@ -730,7 +730,7 @@
     "Account Settings…": "帐户设置…",
     "Delete Account": "删除帐户",
     "Change": "修改",
-    "Name:": "用户名：",
+    "Name:": "名称：",
     "Share Document": "分享文档",
     "Loading documents list…": "正在加载文档列表…",
     "Refresh Documents List": "刷新文档列表",
@@ -1476,7 +1476,7 @@
     "Change Profile": "修改描述文件",
     "Color Profile:": "颜色描述文件：",
     "Edit Color Profile": "修改颜色描述文件",
-    "No color conversion occurs with an Unmanaged profile. Performance improves, but with less accuracy between what you see on screen, and what is exported.": "无管理描述文件不进行颜色转换。更好的性能，但在屏幕上看到的内容和导出的内容之间的准确性较低。",
+    "No color conversion occurs with an Unmanaged profile. Performance improves, but with less accuracy between what you see on screen, and what is exported.": "未管理描述文件不进行颜色转换。性能更好，但在屏幕上看到的内容和导出的内容之间的准确性较低。",
     "Assign will apply the current RGB values to the selected profile. This will subtly change the appearance of some colors.": "分配会将当前 RGB 值应用于所选描述文件。 这将巧妙地改变一些颜色的样子。",
     "Convert will change the RGB values for the selected profile, but colors will try to appear mostly the same. Green and Red hues will be the most affected.": "转换将按照所选描述文件更改 RGB 值，但颜色将尝试显示为大致相同。绿色和红色影响最大。",
     "This determines how colors are displayed on screen and exports.": "这决定了如何在屏幕和导出上显示颜色。",
@@ -1486,5 +1486,7 @@
     "This document uses the Display P3 color profile.": "本文档使用 Display P3 颜色描述文件。",
     "sRGB is the standard for web design and the best choice if you are targeting a wide array of devices. Doesn’t support colors as vibrant as P3.": "sRGB 是网页设计的标准，是你用于各种设备的最佳选择。不支持像 P3 一样充满活力的颜色。",
     "Assign": "指定",
-    "This document uses the sRGB IEC61966-2.1 color profile.": "本文档使用 sRGB IEC61966-2.1 颜色描述文件。"
+    "This document uses the sRGB IEC61966-2.1 color profile.": "本文档使用 sRGB IEC61966-2.1 颜色描述文件。",
+    "Select the color profile new Sketch documents will use.": "选择新的 Sketch 文档将使用的颜色描述文件。",
+    "Toggle Interface": "显示隐藏界面"
 }
