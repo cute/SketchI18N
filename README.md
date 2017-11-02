@@ -7,9 +7,9 @@ SketchI18N is multi-language plugin for Sketch.app
 ## Language Support
 * 简体中文 (Chinese Simplified) - [cute](https://github.com/cute/), [utom](http://utom.design) and [Pluwen](https://twitter.com/pluwen)
 * 繁体中文 (Chinese Traditional) - [Pluwen](https://twitter.com/pluwen)，[Zih-Hong](http://zihhonglin.com)
-* 日本語 (Japanese) (76% Finished) - [littlebusters](https://github.com/littlebusters)
-* Français (French) (41% Finished) - [Luc](https://twitter.com/lucpotage)
-* русский (Russian) (9% Finished) - zhanqingyan
+* 日本語 (Japanese) (74% Finished) - [littlebusters](https://github.com/littlebusters)
+* Français (French) (55% Finished) - [Luc](https://twitter.com/lucpotage)
+* русский (Russian) (19% Finished) - [Jojo](http://i.ui.cn/ucenter/227163.html)
 * Deutsche (German) (2% Finished) - huangyuxin
 * 한국어 (Korean) (1% Finished) - Oasis
 
