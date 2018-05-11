@@ -1,5 +1,6 @@
 {
     "name": "Sketch I18N",
+    "icon": "logo.png",
     "description": "SketchI18N is multi-language plugin for Sketch",
     "author": "@liguangming",
     "homepage": "http://liguangming.com",
