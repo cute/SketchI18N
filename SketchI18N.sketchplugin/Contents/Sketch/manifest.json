@@ -18,7 +18,7 @@
         "handler": "onRun",
         "handlers": {
             "actions": {
-                "OpenDocument": "onRun",
+                "OpenDocument": "onRun"
             }
         }
     },{
@@ -27,12 +27,12 @@
         "script": "app.js",
         "description": "Auto translate Sketch to your mother language.",
         "icon": "icons/sketchi18n.png",
-        "handler": "onRun",
+        "handler": "onRun"
     }],
     "menu": {
         "isRoot": false,
         "items": [
-            "i18n-toggle-command",
+            "i18n-toggle-command"
         ]
     }
 }
