@@ -4,12 +4,12 @@
     "description": "SketchI18N is multi-language plugin for Sketch",
     "author": "@liguangming",
     "homepage": "http://liguangming.com",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "identifier": "com.liguangming.sketch-i18n",
     "downloadURL": "https://github.com/cute/SketchI18N",
     "appcast": "https://sketchi18n.github.io/appcast/appcast.xml",
     "compatibleVersion": 3.3,
-    "bundleVersion": "20",
+    "bundleVersion": "21",
     "commands": [{
         "name": "Sketch I18N",
         "identifier": "i18n-command",
@@ -18,7 +18,7 @@
         "handler": "onRun",
         "handlers": {
             "actions": {
-                "OpenDocument": "onRun",
+                "OpenDocument": "onRun"
             }
         }
     },{
@@ -27,12 +27,12 @@
         "script": "app.js",
         "description": "Auto translate Sketch to your mother language.",
         "icon": "icons/sketchi18n.png",
-        "handler": "onRun",
+        "handler": "onRun"
     }],
     "menu": {
         "isRoot": false,
         "items": [
-            "i18n-toggle-command",
+            "i18n-toggle-command"
         ]
     }
 }
