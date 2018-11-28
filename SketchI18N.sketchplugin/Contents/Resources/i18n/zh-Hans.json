@@ -1,4 +1,6 @@
 {
+    "Hide %zd Layer(s)":"隐藏 %zd 图层",
+    "Lock %zd Layer(s)":"锁定 %zd 图层",
     "Copy SVG Code": "拷贝 SVG 代码",
     "Zoom": "缩放",
     "Space": "间距",
